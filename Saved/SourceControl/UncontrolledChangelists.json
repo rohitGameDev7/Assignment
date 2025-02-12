@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Games_projects/Unreal engine/Assignment/Content/BP/MySpawnableBox.uasset",
+				"D:/Games_projects/Unreal engine/Assignment/Content/Material/Box_M.uasset",
+				"D:/Games_projects/Unreal engine/Assignment/Content/BP/MyBoxSpawner.uasset",
+				"D:/Games_projects/Unreal engine/Assignment/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/KH/FALIXDVTMG921IIJYWH91H.uasset",
+				"D:/Games_projects/Unreal engine/Assignment/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/YS/SDKDQRM4FJAZZP7VBPXCQ7.uasset",
+				"D:/Games_projects/Unreal engine/Assignment/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/IG/SGD90COVDVAAYZ18L86QQJ.uasset",
+				"D:/Games_projects/Unreal engine/Assignment/Content/MySpawnableBox.uasset"
+			]
+		}
+	]
+}
